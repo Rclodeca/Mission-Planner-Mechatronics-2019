@@ -1,0 +1,15 @@
+{
+  "name": "missionplanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "start \"Google Chrome\" index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "litegraph.js": "^0.7.0"
+  }
+}
